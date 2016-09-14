@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cookie Dough Games/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1

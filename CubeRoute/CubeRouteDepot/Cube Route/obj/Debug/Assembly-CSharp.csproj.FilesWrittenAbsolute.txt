@@ -1,0 +1,17 @@
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/obj/Debug/Assembly-CSharp.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/UnityEngine.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/UnityEditor.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Gabriel/Perforce/CubeRoute/CubeRouteDepot/Cube Route/Temp/bin/Debug/Mono.Cecil.Mdb.dll
